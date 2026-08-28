@@ -1,5 +1,5 @@
 # Valerio Marsocci — personal academic website
-
+     
 A lightweight static website designed to run directly on GitHub Pages.
 
 ## Why this setup
